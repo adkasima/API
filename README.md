@@ -7,6 +7,7 @@ API desenvolvida durante o curso Explorer.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pacotes">Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-scripts">Scripts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -28,5 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [BCrypt](https://www.npmjs.com/package/bcrypt)
 - [Knex.js](https://knexjs.org)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
+
+## ⚙ Scripts
+
+- npm run dev
+- npm run migrate
 
 ---
