@@ -16,7 +16,7 @@ API desenvolvida durante o curso Explorer.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JAVASCRIPT
+- [JavaScript](https://www.javascript.com)
 - [Node e NPM](https://nodejs.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Insomnia](https://insomnia.rest)
